@@ -1,0 +1,35 @@
+h1 {
+  background-color:pink;
+  margin-left: 33.3%;
+  margin-right: 33.3%;
+}
+h3 {
+  font-size: 35px;
+  color:#e04a6f;
+}
+#mainCaption {
+  font-size: 30px;
+}
+#pictureOfKim
+{
+  width: 300px;
+  height: auto;
+}
+#escapeRoom {
+  width: 300px;
+  height: auto;
+}
+p {
+  font-size: 20px;
+}
+ul {
+  font-size: 20px;
+}
+.col-sm-4 {
+  /*change background color to a contrasting pink later*/
+  background-color: #e0c7c7;
+  column-width: 33.3%;
+}
+.container {
+column-width: 33.3%;
+}
